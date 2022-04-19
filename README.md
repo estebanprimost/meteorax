@@ -1,5 +1,5 @@
 # Meteorax
-Aplicación prototipo resultado de la tesina "Desarrollo de una interfaz de visualizaci�n de datos de radar".
+Aplicación prototipo resultado de la tesina "Desarrollo de una interfaz de visualización de datos de radar".
 
 Licenciatura en Sistemas
 
